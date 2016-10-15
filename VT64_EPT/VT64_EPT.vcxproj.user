@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <SignMode>TestSign</SignMode>
+    <TestCertificate>CN="WDKTestCert 猪会被杀掉,131209241579289425" | A4B9A3676F1B0E784ECBC2CCF4BE32A193971164</TestCertificate>
+  </PropertyGroup>
+</Project>

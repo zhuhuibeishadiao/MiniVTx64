@@ -1,0 +1,2 @@
+D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\amd64>ml64 /FoE:\work
+\VT_64\VT_64\amd64\amd64.obj /c E:\work\VT_64\VT_64\amd64\amd64.asm
